@@ -15,7 +15,7 @@ locationsFile.close()
 # read in the province mappings
 provinceMappingsFile = open('province_mappings.txt', encoding='iso-8859-1')
 lines = [line.rstrip('\n') for line in provinceMappingsFile]
-provinceMappings = []
+provinceMappings = dict()
 for line in lines:
 	if len(line) == 0: continue
 	if line[0] == '#': continue
@@ -27,12 +27,12 @@ for line in lines:
 			for HoI4Match in HoI4Matches:
 				HoI4Provinces.append(HoI4Match.group(2))
 			for HoI4Province in HoI4Provinces:
-				pair = [HoI4Province, HoI4Provinces]
-				provinceMappings.append(pair)
+				provinceMappings[HoI4Province] = HoI4Provinces
 provinceMappingsFile.close()
 
 # report mappings to confirm this worked
-for provinceMapping in provinceMappings:
-	print(provinceMapping)
+for position in positions:
+	mapping = provinceMappings.get(position)
+	print(mapping)
 
 input("Press enter to continue")
