@@ -5,11 +5,13 @@ import re
 #read the city positions
 locationsFile = open("cityLocations.txt", encoding='iso-8859-1')
 lines = [line.rstrip('\n') for line in locationsFile]
-positions = []
+positionsList = []
+positionsMap = dict()
 for line in lines:
 	positionMatch = re.search("([0-9]+)\t(.+)", line)
 	if (positionMatch):
-		positions.append(positionMatch.group(1))
+		positionsList.append(positionMatch.group(1))
+		positionsMap[positionMatch.group(1)] = positionMatch.group(2)
 locationsFile.close()
 
 # read in the province mappings
@@ -32,9 +34,9 @@ provinceMappingsFile.close()
 
 # Check city positions against mappings, report mismatches
 outputFile = open('output.txt', "w+", encoding='iso-8859-1');
-for position in positions:
+for position in positionsList:
 	mapping = provinceMappings.get(position)
 	if mapping[0] != position:
-		outputString = "HoI4 province " + position + " was not first in its mapping!\n"
+		outputString = "HoI4 province " + position + " was not first in its mapping! Locations name: " + positionsMap.get(position) + "\n"
 		outputFile.write(outputString)
 outputFile.close();
