@@ -30,9 +30,11 @@ for line in lines:
 				provinceMappings[HoI4Province] = HoI4Provinces
 provinceMappingsFile.close()
 
-# report mappings to confirm this worked
+# Check city positions against mappings, report mismatches
+outputFile = open('output.txt', "w+", encoding='iso-8859-1');
 for position in positions:
 	mapping = provinceMappings.get(position)
-	print(mapping)
-
-input("Press enter to continue")
+	if mapping[0] != position:
+		outputString = "HoI4 province " + position + " was not first in its mapping!\n"
+		outputFile.write(outputString)
+outputFile.close();
