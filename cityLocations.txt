@@ -1,0 +1,2199 @@
+11	Storuman 
+14	Drammen 
+15	Kowdor 
+17	Gnesen
+22	Hammerfest
+37	Mikkeli
+46	Östersund
+53	Stavanger
+66	Kokkola
+78	Amara 
+79	Puschkin  
+87	Chim 
+110	Waldai 
+117	Novgorod
+121	Yaroslavl
+122	Bergen
+142	Nikel
+148	Arjepolog 
+153	Curacao
+156	Falun
+158	Oulu
+169	Pori
+177	Martinique
+185	Saaremaa
+188	Älesund
+191	Elisabethville
+192	Narvik
+211	Öland 
+215	Salihorsk 
+221	Ipswich  
+226	Torschok 
+241	Wilhelmshaven
+242	Vaxjö 
+265	Jelgava
+266	Harpenthal
+279	Bromberg  
+281	Tilsit
+281	Tilsit  
+285	Waterford
+294	Baryssau 
+295	Trolhättan 
+299	Kalmar 
+306	Smolensk
+310	Daugavpils
+317	Flensburg  
+321	Rostock
+324	Saransk
+333	Twer 
+336	Oldenburg
+337	Letterkenny
+343	Baklan
+351	Newcastle
+360	Stocubcy 
+362	Danzig
+373	St. Pierre and Miquelon
+374	Cuxhaven
+375	Neuruppin  
+377	Cardiff
+378	Wladimir 
+379	St. Vincent
+381	Glasow
+382	Kaluga  
+383	Göteborg
+385	Derry  
+391	Amsterdam
+400	Suwalken
+402	Minsk
+405	Bielefeld
+406	Maladsetschna  
+407	Swansea
+408	Visby 
+413	Voronezh
+418	Kharkov
+424	Marienbad
+441	Korosten
+442	Tarnow
+454	Amiens
+462	Ternopil
+464	Atyrau
+472	Pawlohrad
+476	Chmelnzykzyj 
+478	Cottbus
+487	Michailowka 
+488	Tscherkassy
+492	Montgomery
+495	Dortmund
+502	Slowjansk 
+504	Fastiw
+507	Guildford  
+509	Morosowsk 
+511	Poltawa  
+512	Orleans
+513	Luzk  
+514	Dresden
+516	Brussels
+525	Kiev
+526	Braunschweig
+528	Eugene
+529	Siegen
+532	Passau
+538	Jena  
+540	Plymouth
+552	Liegnitz
+564	Kassel
+568	Armjansk 
+575	Dunkerque
+577	Czernowitz 
+581	Poprad  
+583	Pardubitz
+587	Köln
+596	Maribor
+603	Verona
+606	Bijeljina
+607	Varese
+610	Eureka
+611	Aosta
+620	Limoges
+628	Udine  
+629	Poitiers    
+637	Slatina   
+638	Athens
+650	Santiago
+656	Bruneck
+657	Constanta
+663	Zürich
+671	Lienz
+673	Innsbruck
+676	Karlsburg   
+678	Mulhouse
+686	Ödenburg
+687	Tulcea 
+688	Salzburg
+689	Toledo
+690	Brasov
+692	Munich
+698	Belfort
+704	St. Pölten  
+705	Jewpatorija
+707	Berchtesgaden
+708	Augsburg
+710	Roseville
+715	Lowell
+719	Tuapse 
+722	London
+724	Guimaraes  
+726	Leon
+733	Concord
+734	Amherst
+735	Armawir
+736	Saskatoon
+740	Bilbao
+743	Bayonne
+747	Almeria
+758	Coruna
+770	Cuneo
+772	Poti 
+773	Brescia
+778	Annecy
+782	Ravenna
+788	Norfolk
+792	Beirut
+799	Figueira da Foz
+810	Jixi
+819	Naples
+823	Temecula
+831	Dayton
+832	Albacete  
+848	Tongchon
+849	Gallipoli
+853	Phoenix
+855	Ocha
+858	Toledo  
+859	Long Island
+863	Larisa 
+865	Newport News
+866	Palm Bay
+869	Aksaray
+870	Fort Wayne
+873	Alexandria
+875	Cordoba
+883	Foggia
+885	Burgos
+887	Tieling
+890	Düzce
+900	Tangshan
+907	Stip  
+908	Springfield
+911	Toulon
+911	Toulon  
+914	Saranda
+921	Kayseri
+923	Montecassino
+925	Ancona
+928	Akhisar
+934	Chaoyang
+935	Pernik 
+940	Konya
+941	Bakersfield
+944	Yanbian
+947	Bursa
+949	Sofia
+955	Salerno
+957	Vladivostok
+958	Avignon  
+959	Orang
+962	Benidorm
+965	Montana 
+969	Bergamo
+970	Setubal
+974	Bitola
+976	Lamia 
+978	Tongsin
+989	Berkane
+994	Sanya
+1001	Xuzhou
+1005	Antalya
+1015	Eilat
+1019	Williamington
+1020	Miyazaki
+1024	Fukushima
+1025	Kokura
+1028	Luxor
+1029	Lianqungang
+1047	Guangzhou
+1048	Cádiz
+1055	Wenzhou
+1056	Homs 
+1062	el Abiar
+1065	Haifa
+1068	Bani Suwaif
+1069	Jinan
+1070	Haikou
+1071	El-Alamein
+1082	Hpakan
+1085	Malaita
+1086	Jerusalem
+1088	Latakia
+1092	Hiroshima
+1097	Takasaki
+1102	Agadir
+1106	Kefalonia   
+1117	Niigata
+1123	Tokunoshima
+1130	Tobruk
+1136	Maizuru
+1145	Algiers
+1149	Tripoli
+1150	Dalian
+1168	Taizhou
+1176	Granada
+1177	Jeju
+1181	Bukavu
+1182	Tokyo
+1188	Shijiazhuang
+1193	Nanping
+1198	Brega
+1200	Yantai
+1205	Agrinio 
+1208	Kuching
+1221	Batangas
+1221	Cambridge
+1224	Ormoc
+1237	Vanuatu
+1239	Balqasch 
+1261	Bacolod
+1269	Guadalcanal
+1273	Goa
+1278	Ufa
+1280	Pitcairn Island
+1283	Daru
+1293	Surigao
+1295	Izma  
+1297	Barnaul 
+1301	Javeku
+1311	Calbayog
+1316	Pontianak
+1319	Kunming
+1330	Rangoon
+1345	Jambi
+1349	Bombay
+1351	Pulau Karakelong
+1352	Topeka
+1355	Kupang
+1367	Deyang
+1368	Roxas
+1387	Tjumen
+1399	Sewero
+1403	Mawlamyaing
+1407	Tagum
+1408	Vancouver
+1410	Nhulunbuy
+1414	Bend
+1415	Dagupan
+1421	Zamboanga
+1426	Nutak
+1428	Pulau Siberut
+1437	Bacan
+1440	San Juan
+1444	Jamshedpur
+1445	Frankfort
+1453	Baton Rouge
+1458	Lüliang
+1459	Tashkent
+1464	Vientiane
+1468	Durban
+1488	Chiang Mai
+1492	Mandalay
+1493	Derweze  
+1500	Beaumont
+1506	Roanoke
+1513	Long Island 
+1519	Taiyuan
+1527	Peoria
+1545	Yichun
+1550	Manzanillo  
+1556	Gainesville
+1562	San Diego
+1568	Azul
+1574	Ambon
+1578	al-Hasaka
+1581	Imphal
+1584	Spring Hill
+1591	Alma-Ata
+1595	Indianapolis
+1599	Tbilisi
+1612	Shiyan
+1615	Hattiesburg
+1631	ar Rutba
+1635	Les Cayes
+1637	Gaya
+1639	Bahia Blanca
+1647	Qingyang
+1652	Perth
+1667	Albury
+1675	Bischkek
+1676	Tschadan 
+1690	Spokane
+1696	Ulan-Ude 
+1719	Saint Paul
+1726	Surgut
+1729	Nowy Urengoi 
+1734	Duluth
+1742	Nogliki 
+1746	Rotorua
+1747	Rapid City
+1751	Azores
+1761	Taksimo
+1770	Des Moines
+1770	Kaechon
+1773	Mount Gamier
+1783	Karamay
+1793	Glendale
+1806	Tulsa
+1814	Wellington
+1821	Sverdlovsk
+1823	Tilitschiki  
+1827	Denver
+1830	Bethel
+1833	East London
+1834	Mörön
+1836	Bismarck
+1838	Kumul
+1843	Miami
+1851	Billings
+1866	Minneapolis
+1869	Graham Island
+1877	Erzin 
+1896	Tabriz
+1903	Malabo
+1908	Jaipur
+1909	Conakry
+1927	Austin
+1939	Nairobi
+1944	Maracaibo
+1945	Los Mochis
+1951	Lome
+1961	Ngari
+1964	Gaalkacyo
+1965	Mexico City
+1975	Niamey
+1984	Gondar
+1998	Midland
+2007	Florencia
+2009	Gambela
+2015	Kaxgar
+2017	Farah
+2022	Dingxi
+2023	Medellin
+2026	Isfahan
+2029	al-Mukalla
+2036	Kanpur
+2038	Freetown
+2043	Broken Arrow
+2045	Tianshui
+2046	ad-Damir
+2050	Lagos
+2051	Manzanillo
+2052	San Cristobal
+2062	Anar Dara
+2063	Baidoa
+2070	Zahedan
+2072	Mek'ele
+2077	Belize
+2080	Jaunde
+2081	N'Djamena
+2082	Plano  
+2086	Delhi
+2087	Bayan Nur
+2088	Kassala
+2089	Basrah
+2091	Baoji
+2096	Juba
+2097	Baghdad
+2103	Salala
+2114	Mildura
+2115	Cabinda
+2117	Newman
+2120	Beira
+2123	Nacala
+2133	Plumridge Lakes
+2150	Teresina
+2152	Asunción
+2165	Kerguelen
+2170	Sintang
+2182	Juliaca
+2184	Palangka Raya
+2188	Seychelles
+2189	Hobart
+2190	Brasilia
+2195	Mariscal Estigarribia
+2196	Dar es Salaam
+2197	Christchurch
+2206	Arusha
+2210	Arequipa
+2211	Dunedin
+2218	Goiania
+2219	Port Lincoln
+2220	Bujumbura
+2226	Pucallpa
+2227	Joao Pessoa
+2229	Lüderitz
+2489	Truk
+2995	Nordkapp 
+3008	Plotina 
+3010	Edmonton
+3021	Hamar 
+3022	Trondheim
+3055	Sirkka
+3076	Braila 
+3083	Turku
+3095	Kiruna 
+3104	Boden 
+3118	Madeira
+3122	Vaasa
+3124	Tscherepowez 
+3126	Bronoysund 
+3134	Murmansk
+3137	Tampere
+3140	Tikhvin
+3145	Harstad 
+3151	Leningrad
+3152	Tallinn
+3153	Taivalkoski
+3162	Äre 
+3171	Fredrikstad 
+3172	Jakobstad
+3174	Pärnu 
+3187	Sportawala
+3190	Kostroma 
+3192	Haugesund
+3205	Chester
+3207	Schwedt/Oder
+3208	Kangiqsualujjuaq
+3211	The Hague
+3241	Hereford
+3250	Nowomoskowsk 
+3262	Breda
+3273	Glasgow
+3274	Aberystwyth
+3282	Tscheboksary  
+3284	Trinidad and Tobago
+3288	Memel
+3290	Woskressensk 
+3296	Windau
+3298	Marienburg
+3299	Regensburg
+3301	Wrexham  
+3310	Ostrow  
+3311	Isle of Man  
+3312	Pasewalk
+3320	Wilno
+3325	Odense
+3326	Bremen
+3327	Obinsk 
+3335	Bryansk
+3338	Archangelsk
+3341	Herning
+3342	Carlow
+3350	Babrujsk 
+3359	Dundalk
+3361	Joschkar-Ola 
+3369	Bristol
+3375	Mariestad 
+3379	Belfast
+3380	Elbing
+3392	Brzesc Litewski
+3393	Grodno
+3396	Galway  
+3398	Iserlohn
+3401	Naxos (Kykladen)   
+3410	Krosno  
+3410	Krosno  
+3414	Troppau  
+3415	Jamburg 
+3456	Karachi
+3458	Radom  
+3460	Leszno  
+3463	Exeter
+3466	Pokrowsk 
+3474	Bamberg
+3480	Tschernihiw  
+3484	Trencin
+3485	Glatz
+3488	Malmedy
+3497	Kielce
+3499	Potsdam
+3501	Dover
+3505	Kalatsch am Don  
+3509	Le Mans
+3511	Riwne
+3512	Bocholt
+3513	Portland
+3516	Namur
+3520	Sumy  
+3522	Magdeburg
+3524	Marburg
+3529	Stalingrad
+3530	Karlsruhe  
+3535	Leipzig
+3537	Zvolen
+3541	Straubing  
+3544	Warsaw
+3546	Verdun
+3547	Bonn
+3548	Munkatsch  
+3552	Brest
+3564	Gjumri  
+3569	Brno
+3572	Grünberg  
+3573	Kachowka
+3574	Mannheim
+3578	Saratov
+3580	Kursk
+3581	Presov
+3583	Ostrau
+3584	Lubny 
+3585	Karlsbad
+3586	Czestochowa
+3588	Redding
+3594	Vichy
+3598	Angouleme   
+3604	Treviso
+3605	Kingston
+3617	Novi Sad  
+3623	Subotica
+3639	Pitesti 
+3652	Dijon
+3653	Batumi
+3655	Bourges
+3662	St. Moritz
+3663	Ploiesti
+3668	Machatschkala 
+3670	Nagykanizsa  
+3671	Tours
+3672	Grozny
+3673	Klagenfurt
+3677	San Jose
+3678	Oakland
+3680	Szekszard
+3684	Wels
+3686	Sevastopol
+3687	Erie
+3691	Cape Dorset
+3692	Freiburg
+3693	Paterson
+3696	Oradea 
+3704	Ismajil 
+3706	Calgary
+3710	Worchester
+3712	Manchester
+3713	Miskolc
+3714	Rize 
+3719	Grand Forks
+3720	Maikop
+3728	Kreuzburg 
+3731	Eger  
+3732	Portland
+3733	Rochester
+3734	Krasnodar
+3737	Donostia-San Sebastian
+3743	Kolomea   
+3751	Albi  
+3755	Cherson
+3763	Hamilton
+3768	Grenoble
+3772	Savona
+3775	Toronto
+3776	Mantua
+3778	Ottawa
+3780	Milan
+3790	Lagos
+3795	Tikrit
+3798	Coimbra  
+3803	Hyesan
+3816	Zaragoza
+3823	Richmond
+3834	Tucson
+3838	Ajáccio
+3840	Monterey
+3860	Paekam
+3869	Boulder
+3878	New York
+3882	Skopje
+3885	Arezzo  
+3893	Edirne
+3894	Ramapo
+3900	Qinguiangdao
+3901	Cosenza
+3914	Ioannina 
+3916	Erbil
+3924	Split
+3931	Pamplona
+3935	Tokat 
+3938	Madrid
+3943	Zadar    
+3950	Sivas
+3951	Eskisehir
+3956	Cacak
+3957	Washington
+3960	Dallas
+3966	Vasto
+3969	Guarda
+3973	Bolos 
+3974	Knin
+3981	Hamhung
+3984	Kragujevac  
+3987	Tozeur
+3988	Korinth   
+3992	Nanchang
+3995	Saipan
+4014	Ragusa
+4017	Ma'an 
+4028	Guigang
+4037	Tai'an
+4047	Sirte
+4052	Pyongyang
+4056	Pusan
+4069	Nakatsugawa
+4073	Suez
+4075	Hanoi
+4076	Alexandria
+4088	Gaza
+4091	Nantong
+4098	Alicante  
+4102	Kagoshima
+4107	Changyon
+4109	Athens
+4110	Hyderabad
+4111	Damascus
+4112	Izmir
+4117	Ash Shwayrif
+4119	Haiphong
+4121	Chongzuo
+4126	Gwangju
+4135	Gibraltar
+4142	Yokkaichi
+4150	Sidi bel Abbes
+4151	al-Baida
+4155	Virgin Islands
+4159	Messina
+4164	Kurume
+4166	Green Bay
+4167	Xianyang
+4170	Agios 
+4180	Honolulu
+4181	Linyi
+4184	Isumi
+4185	Jingdezhen
+4189	Macau
+4193	Olympia 
+4194	Tagiura
+4196	Fuzhou
+4197	Shobara
+4198	Yakushima
+4206	Tel Aviv
+4211	Pulau Belitung
+4226	Buin
+4228	Legazpi
+4231	Lifou
+4241	Davao
+4245	Calcutta
+4246	Nowy Urgal 
+4247	Mystery Island
+4252	Santa Isabel Island
+4256	Tongchuan
+4268	Noumea
+4273	Denpasar
+4277	Derschawinsk
+4279	Singkawang
+4285	Saint John
+4286	Suva
+4288	Calapan
+4299	Lakhimpur
+4302	Siem Reap
+4328	Salem
+4329	Port Moresby
+4333	Akmolinsk
+4334	Quy Nhon
+4345	Montréal
+4349	Tanete
+4350	Vipan
+4352	New Hanover
+4355	Kuala Dungun
+4357	North Palau
+4360	Prince Edward Island
+4363	Tp. Pleiku
+4374	Aral 
+4379	Hue
+4389	Atassu 
+4396	Bintulu
+4397	Vinh
+4401	Saigon
+4414	Anantapur
+4421	Lamassa
+4422	Gaspe
+4423	Baguio
+4425	Myitkyina
+4427	Cotabato
+4429	Puerto Princesa
+4430	Sydney (Cape Breton) 
+4433	Pattaya
+4445	Montpelier
+4450	St. Kitts and Nevis
+4455	Tscherski
+4463	Derbent 
+4464	Biloxi
+4469	Xinzhou
+4473	Lankaran  
+4476	Camagüey 
+4482	Mary 
+4487	Daly Waters
+4504	Guiyang
+4506	Qiqihar
+4507	Lafayette
+4512	Batman
+4512	Batman 
+4516	Patna
+4518	Fresno
+4520	Cairns
+4532	Qiannan
+4543	Auckland
+4547	Sanmenxia
+4560	Airlie Beach
+4564	Kendari
+4565	Jackson
+4567	Fayetteville
+4569	Saint Louis
+4572	Hsinking
+4573	Santa Teresita
+4576	Wakkanai
+4593	Timika
+4598	Santiago de los Caballeros
+4600	Pinar del Rio 
+4601	Cincinnati
+4607	Carson City
+4608	Soerabaja
+4610	Sheridan
+4613	Luang Prabang
+4619	Wuhan
+4622	Tuscaloosa
+4626	Naypyidaw
+4630	Cervantes
+4640	Narwa
+4641	Port-au-Prince
+4645	Coral Bay
+4646	Shari
+4647	Grand Bahama 
+4652	Medan
+4660	Kapan 
+4664	Rochester
+4669	Novy Port
+4696	Port Elizabeth
+4709	Urumqi
+4718	Tauranga
+4720	Cartwright
+4723	Cheyenne
+4724	Krasnoyarsk
+4740	Wichita
+4753	Fort Severn
+4794	Casper
+4797	Irkutsk
+4799	Las Vegas
+4801	Ulaanbaatar
+4820	Gillette
+4823	Altay
+4832	Amazar 
+4833	Homer
+4848	Mccarthy
+4852	Hulun Buir
+4859	Dudinka 
+4860	Great Falls
+4861	Akureyri 
+4865	Salt Lake City
+4872	Winnipeg
+4872	Winnipeg
+4879	Windhoek
+4883	Nagpur
+4893	Herat
+4901	Ardabil
+4904	Campeche
+4915	Agra
+4923	Osch   
+4925	Chengdu
+4948	Dakar
+4955	Odessa
+4956	San Luis Potosi
+4963	Dunqula
+4964	Yushu
+4967	Maldives
+4972	Kano
+4974	Rafha
+4975	Santa Fe
+4977	Navojoa
+4979	Islamabad
+4980	Macapa
+4982	Georgetown
+4987	Kathmandu
+4989	Banjul
+5010	Addis Ababa
+5014	Soran
+5021	Tampico
+5022	Killeen
+5023	Galapagos Islands
+5029	Mashhad
+5033	Lhasa
+5037	Mekka
+5050	Kermanschah
+5059	Huntsville
+5061	Loredo
+5064	Kandahar
+5069	Berenike
+5073	Sabzevar
+5074	Aden
+5085	Wichita Falls
+5090	Sandy Springs
+5100	Zhangye
+5105	Quetta
+5107	Fortaleza
+5117	Léopoldville
+5121	Concepcion
+5131	Arica
+5139	Libreville
+5143	Santiago del Estero
+5157	Dehradun
+5160	Nakuru
+5163	Santa Fe
+5168	Récife
+5181	Devonport
+5184	Rio Cuarto
+5198	Longreach
+5199	Lusaka
+5206	Mount Isa
+5207	Kununurra
+5210	Mombasa
+5214	Boa Vista
+5222	Sambava
+5228	Copiapo
+5229	Tarija
+5230	La Paz
+5283	Krumau
+6039	Douala
+6041	Namsos 
+6050	Stockholm
+6062	Stornoway
+6082	Lappeenranta
+6087	Rovaniemi 
+6103	London
+6115	Oslo
+6124	Kirow 
+6129	Svenstavik 
+6131	Boksitogorsk
+6132	Umea 
+6142	Inari
+6163	Tschagoda 
+6166	Welsk 
+6167	Rybinsk 
+6175	Kostomukascha
+6196	Shetland Islands  
+6200	Lycksele 
+6201	Hiiumaa 
+6206	Nikkaluokta 
+6218	Wolfsburg
+6235	Aalborg
+6236	Landsberg
+6237	Nottingham
+6243	Glinka
+6245	Kalinin
+6262	Tula
+6269	Iwanowo
+6270	Coventry
+6275	Toljatti   
+6278	Ischewsk 
+6280	Pinsk
+6282	Stettin
+6286	Zwolle
+6287	Copenhagen
+6289	Tralee
+6289	Tralee  
+6296	Kaunas
+6298	Lüneburg
+6299	Dserschinsk 
+6300	Rosyth
+6309	Stargard  
+6313	Limerick
+6314	Klaipeda
+6318	Manchester
+6321	Olsztyn
+6332	Königsberg
+6335	Preston  
+6336	Leeuwarden
+6338	Kazan
+6345	Helsingborg
+6347	Osterode
+6351	Bath
+6359	Baranawitschy  
+6361	Alessandria
+6361	Bornholm
+6361	Bornholm
+6364	Aarhus
+6369	Lipezk 
+6375	Rastenburg  
+6377	Hannover
+6380	Moscow
+6384	Liverpool
+6389	Kiel
+6395	Ayr  
+6396	Serpuchow 
+6401	Graudenz
+6412	Halmstad 
+6414	Podolsk  
+6418	Plzen
+6420	Mariupol
+6444	Mainz
+6449	Cherbourg
+6460	Stryj
+6464	Kattowitz
+6469	Essen
+6470	Eger
+6474	Stalino
+6478	Krementschuk 
+6480	Winnyzja 
+6486	Achtubinsk 
+6488	Frankfurt
+6489	Southampton
+6490	Wolgodonsk  
+6496	Eindhoven
+6500	Venlo
+6513	Göttingen
+6521	Berlin
+6522	Rzezow
+6524	Erfurt
+6531	Chaumont  
+6534	Hirschberg  
+6535	Münster
+6536	Lorient
+6540	Ingolstadt  
+6542	Baden-Baden
+6550	Chios 
+6558	Poznan
+6560	Gent
+6561	Lucenec
+6562	Olmütz
+6570	Wuppertal
+6573	Kosice
+6576	Zlin
+6583	Luxemburg
+6584	Botosani 
+6596	Melitopol
+6598	Antwerpen
+6600	Balti   
+6606	Bologna
+6609	Chambery 
+6613	Lyon
+6620	Charabli   
+6626	Trieste
+6647	Dakovo  
+6651	Chateauroux
+6652	Craiova 
+6657	La Rochelle
+6666	Geneva
+6671	Gori  
+6673	Villach  
+6678	Bludenz
+6680	Bregenz
+6681	Santa Rosa
+6682	Arad
+6686	Bikin
+6694	Modesto
+6696	Louisville
+6699	Stockton
+6700	Szeged
+6706	Galati 
+6708	Braunau am Inn
+6710	Detroit
+6711	Cluj
+6718	Mosdok  
+6723	Gmünd  
+6728	Nanowin Rivers Park Reserve
+6731	Bistritz 
+6732	Boston
+6734	Vigo
+6742	Missoula
+6753	Stawropol 
+6760	Basy
+6766	Toulouse
+6779	Fort McMurray
+6780	Turin
+6783	Jeisk
+6785	Corpus Christi
+6786	Saint-Etienne
+6788	Genoa
+6796	Salsk
+6800	Ciudad Real  
+6812	Tarragona
+6817	Catellon de la Plana
+6831	Pescara
+6836	Lleida  
+6842	Weliko   
+6845	Philadelphia
+6855	Columbus
+6862	Grosseto
+6866	Caceres
+6874	Akron
+6880	Faro
+6881	Santa Barbara
+6882	Newark
+6887	Grand Junction
+6889	Dubrovnik  
+6890	Cleveland
+6900	Korca  
+6902	Badajoz  
+6906	Valencia
+6907	Zamora
+6909	New Haven
+6911	Yonkers
+6917	Carcassonne 
+6920	Karabük
+6921	Braga
+6923	Plovdiv
+6927	Girona
+6928	Chongpyong
+6934	Konstanz
+6935	Van
+6936	Palencia
+6936	Palencia  
+6944	Undok
+6946	Pisa
+6973	La Spezia
+6979	Lecce
+6983	Banja Luka  
+6984	Baltimore
+6986	Evora  
+6989	Ussurijsk 
+6992	Aydin
+6994	Aomori
+6995	Sinop
+6996	Viseu  
+6999	Chongqing
+7005	GAbes
+7011	Cairo
+7014	Shanghai
+7016	Hitachinaka
+7021	Gangneun
+7039	Maoming
+7045	Durham
+7046	Ozu
+7059	Marsala
+7069	Casablanca
+7071	Xiamen
+7072	Osaka
+7073	Qina
+7079	Sallum
+7082	Darna
+7083	Cary
+7084	Nawabshah
+7087	Shizuoka
+7097	Changsha
+7101	Changde
+7107	Nazareth 
+7108	Dongguan
+7109	Baoding
+7112	Kapaa
+7113	Wakayama
+7114	ibiza
+7115	Amami-Oshima
+7118	Augusta
+7123	Dominica
+7125	Seoul
+7126	Thoukou
+7132	Oran
+7137	Nanning
+7138	Charlotte
+7145	Izumo
+7147	Agrigent
+7150	Surat
+7151	Amman
+7160	Liaocheng
+7164	Damanhur
+7169	Sendai
+7170	Irbid 
+7173	Taza
+7183	Sevilla
+7184	Al-Qisa
+7186	Taipei
+7191	Hangzhou
+7193	Paphos
+7195	Lahaina
+7197	Kochi
+7202	Charleston
+7206	Adam
+7211	Patras 
+7212	Okayama
+7221	Incheon
+7222	Hefei
+7236	Hat Yai
+7245	Eleuthera 
+7250	Belgaum
+7251	Rabaul
+7254	Pathein
+7260	Galle
+7271	Da Lat
+7274	Novosibirsk
+7281	Magnitogorsk
+7290	Samoa
+7293	Mataram
+7296	Banjarmasin
+7302	Suva
+7304	New Glasgow
+7305	Popondetta
+7306	Cedar Rapids
+7307	Masbate
+7311	Gorontalo
+7313	Orsk 
+7314	Yulin
+7315	Seattle
+7322	Makat 
+7325	Santiago
+7329	Kota Bharu
+7339	Manus Island
+7340	Vijayawada
+7342	Sungai Petani
+7344	Colombo
+7361	Halifax
+7363	Coimbatore
+7371	Kuching
+7375	Perm
+7376	Phnom Penh
+7381	Batavia
+7386	Olympia
+7388	Tampa
+7390	Nendo
+7394	Cork
+7395	Mangaluru
+7396	Pulau Bangka
+7405	Karaganda
+7408	Bangkok
+7413	North Moluccas
+7415	Tarakan
+7418	Xi'an
+7421	Bandung
+7442	Tacoma
+7446	Yuxi
+7447	Kochi
+7451	Santa Clara
+7455	Nalbari
+7459	Luoyang
+7462	Augusta
+7480	Mobile
+7481	Borroloola
+7487	Bintuni
+7496	Tamworth
+7500	Rosario
+7517	Irvine
+7520	Newcastle
+7522	Hervey Bay
+7530	Siirt
+7535	Sunshine Coast
+7542	Serui
+7543	Pine Bluff
+7552	New Orleans
+7557	Pulau Buru (Moluccas)
+7559	Mae Sot
+7564	Brisbane
+7566	Townsville
+7567	Kangaroo Island
+7572	Phitsanulok
+7583	Columbus
+7585	Kaimana
+7588	Charleston
+7590	Guantánamo
+7602	Gorgan
+7607	Columbia
+7612	Macon
+7617	Colón
+7621	Mar del Plata
+7622	Havana
+7623	Marla
+7629	Burlington
+7630	Panamá
+7633	Chifeng
+7634	Sylhet
+7643	Asheville
+7648	Xilin Gol
+7658	Banda Aceh
+7660	Santo Domingo
+7661	Baku
+7665	Huaihua
+7669	Darwin
+7673	Pematang Siantar
+7692	Palmerston Nord
+7708	Pawlodar  
+7747	Queen Creek
+7758	Clarenville
+7768	Tegi
+7775	Samarkand
+7779	Helena
+7780	Fort Collins
+7788	Port aux Basques
+7789	Tomsk
+7791	Knoxville
+7797	Memphis
+7798	Melbourne
+7799	Uliastay
+7802	Bratsk 
+7806	Dalandsadgad
+7827	Elko
+7834	Overland Park
+7843	Ölgil
+7848	Greater Khingan
+7851	Never 
+7855	Nome
+7859	Canberra
+7862	Aberdeen
+7863	Ust-Ilimsk
+7868	Dzhaore
+7869	Yukon
+7871	Tschumikan
+7878	Petropawlowsk-Kamtschatski
+7884	Kodiak
+7887	Hamilton
+7938	Jaunpur
+7940	Golmud
+7953	Ahvaz
+7959	Monrovia
+7960	Abu Dhabi
+7963	Maroua
+7965	Dali
+7971	Jiuquan
+7976	Dehong
+7980	Harar
+7981	Arlington
+7982	Bandar e'Abbas
+8000	Socotra
+8001	Samawa  
+8003	Torreon
+8005	Leh
+8007	Multan
+8010	Punakha
+8011	Bangalore
+8013	Kharan
+8017	San Pedro Sula
+8021	Abuja
+8034	Port Harcourt
+8038	El Aaiun
+8043	Assab
+8049	Yan'an
+8051	Katar
+8057	Culiacan
+8064	San Angelo
+8069	Maradah
+8070	Roswell
+8073	Dschaizan
+8085	Kuwait City
+8086	Aksu
+8087	Hyderabad
+8089	Puebla
+8113	Caracas
+8117	Shiraz
+8122	Yamoussoukro
+8123	Kirkuk
+8124	Dschibuti
+8126	Deqen
+8130	Albany
+8143	Aracaju
+8152	Port Hedland
+8155	St. George Ranges
+8157	Cochabamba
+8175	Cuiaba
+8186	Port Augusta
+8193	Brazzaville
+8199	Chiclayo
+8206	Innamincka
+8209	Derby
+8213	Iquitos
+8214	Gaborone
+8216	Tucumán
+8218	Puerto Natales
+8222	Valparaiso
+8228	Bunbury
+8232	Queenstown
+8239	Curitiba
+8241	Invercargill
+8244	Bata
+8245	Lourenco Marques
+8248	Luanda
+8252	Guayaquil
+8435	Lesbos 
+9032	Otta 
+9054	Kristinehamn 
+9061	Joensuu
+9064	Tana 
+9073	Lahti
+9075	Inverness
+9079	Paide
+9088	Nordmaling 
+9097	Sosnowy Bor 
+9098	Luga
+9105	Priosersk
+9108	Luleå
+9116	Kirkenes 
+9120	Slanzy 
+9126	Bode
+9127	Molde 
+9132	Levanger
+9147	Haparanda 
+9149	Uppsala 
+9151	Sundsvall
+9163	Jyväskylä
+9177	Borowitschi 
+9182	Malung 
+9187	Shalakusha 
+9191	Kautokeino
+9195	Kem 
+9198	Sohjana   
+9201	Kirowsk 
+9206	Viipuri
+9209	Örebro 
+9215	Sosnovka 
+9221	Tartu
+9228	Mariehamn
+9239	Oxford
+9247	Mahilhou 
+9248	Onega 
+9250	Grimsby  
+9255	Westport
+9262	Liepaja
+9263	Gdingen
+9268	Northampton
+9274	Lida
+9279	Malmö
+9281	Meppen
+9288	Gomel
+9292	Chelyabinsk
+9296	Kristiansand 
+9297	Birmingham
+9315	Sheffield
+9322	Peterborough
+9323	Polazk 
+9332	York  
+9335	Groningen
+9338	Uljanowsk
+9340	Riga
+9347	Hamburg
+9355	Orel
+9361	Köslin
+9364	Colwyn Bay  
+9377	Guadeloupe
+9379	Leeds
+9383	Stirling  
+9385	Naberschnyje Tschelny 
+9388	Stralsund
+9392	Edinburgh
+9403	Hengelo
+9406	Jönköping 
+9416	Erlangen  
+9417	Rostov
+9427	Krakow
+9434	Le Havre
+9438	Panevezys
+9441	Zwickau  
+9449	Belgorod
+9450	Chicago
+9452	Chelm
+9458	Portsmouth
+9461	Voroshilovgrad
+9467	Sudbury
+9471	Chemnitz
+9472	Sedan  
+9477	Konotop   
+9478	Angers
+9482	Hagen
+9483	Siauliai
+9484	Taunton
+9488	Millerovo 
+9490	Troyes
+9493	Riwne 
+9495	Rennes
+9496	Frankfurt(Oder)
+9498	Rotterdam
+9503	Strasbourg
+9508	Lodz
+9517	Stuttgart
+9520	Kowel  
+9522	Aachen
+9523	Versailles
+9535	Görlitz
+9541	Budweis
+9546	Kalisch
+9548	Radauti   
+9559	Metz
+9561	Compiegne
+9567	Cieszyn  
+9568	Prypjat (Tschernobyl) 
+9569	Tabor  
+9570	Breslau
+9571	Berdjansk 
+9582	Ferrara
+9584	Como
+9598	Trento
+9600	Locarno
+9606	Timisoara
+9610	Plewen 
+9616	Boise
+9617	Bucharest
+9620	Berne
+9627	Ljubljana
+9628	Wladikawkas  
+9630	Meran
+9637	Salinas
+9642	Besancon
+9644	Auxerre
+9646	Leibnitz
+9648	Graz
+9652	Rosenheim
+9654	South Bend
+9656	Jula  
+9660	Budapest
+9661	Neunkirchen
+9663	Sotschi  
+9665	Linz
+9668	Schäßburg   
+9671	San Francisco
+9676	Györ
+9679	Kapfenberg
+9679	Kapfenberg
+9680	Kertsch
+9682	Joliet
+9683	Chisinau 
+9684	Lansing
+9686	Ourense
+9689	Santiago de Compostela  
+9691	Tscherkessk 
+9692	Bratislava
+9693	Albany
+9695	Twin Falls
+9697	Chico
+9708	Syracuse
+9709	Kropotkin 
+9713	Sacramento
+9716	Iasi
+9724	Warren
+9727	Lexington
+9734	Bergerac
+9736	Gap 
+9737	Bordeaux
+9750	Siena
+9752	Parma
+9753	Astrakhan
+9758	Dover
+9764	Barcelona
+9769	Schumen   
+9771	Widin 
+9772	Sassari
+9783	Varna
+9793	Mallorca 
+9795	Usi
+9804	Harrisburg
+9807	Morioka
+9809	Podgorica  
+9812	Teruel  
+9814	Los Angeles
+9815	Huelva  
+9817	Porto
+9822	Norman
+9832	Providence
+9833	Istanbul
+9834	West Palm Beach
+9835	Jinzhou
+9843	Beijing
+9845	Menorca
+9847	Bridgeport
+9850	Hartford
+9853	Perpignan
+9855	Lancaster
+9859	Misawa
+9860	Malatya 
+9863	Olbia  
+9864	Atlantic City
+9865	Akita
+9874	Pristina
+9893	Gaziantep
+9894	Mostar
+9898	Montpellier
+9901	Polatli
+9902	Burgas 
+9904	Rome
+9906	Nis  
+9907	Florence
+9909	Nice
+9911	Visalia
+9914	Tirana
+9920	Fort Worth
+9924	San Marino  
+9925	Merida
+9930	Kavala   
+9932	Trabzon
+9936	Wonju
+9938	Shantou
+9940	Heraklion
+9941	Bodrum
+9945	Ceuta
+9950	Nagasaki
+9958	Zhengzhou
+9960	El Djelfa
+9962	Butare
+9965	Naruto
+9974	Ningbo
+9975	Ahmadabad
+9979	Malaga
+9980	Misrata
+9990	Reggio Calabria
+9991	Chittagong
+9994	Bizerte
+9995	Shangqiou
+10000	Qingdao
+10001	Visakhapatnam
+10005	al-Mansura
+10007	Rhodes
+10011	Tsushima
+10024	Murcia
+10029	Columbia
+10032	Kanazawa
+10035	Khulna
+10041	Denizli
+10043	Jining
+10051	Fayetteville
+10056	Mersin 
+10057	Ganzhou
+10061	Marsa Matruh
+10062	Hong Kong
+10068	Tianjin
+10070	Rabat
+10073	Tanta
+10074	Palermo
+10076	Suzhou
+10081	Greensboro
+10088	Bhubaneswar
+10092	Saiki
+10096	Winston-Salem
+10099	Scharm El-Scheich
+10106	Mosul
+10109	Lorca
+10116	Puri
+10118	Rajkot
+10120	Bardia
+10124	Okinawa
+10125	Nagoya
+10128	Toyama
+10152	Nellore
+10153	Bitung
+10155	Yakima
+10156	Langkawi
+10157	Everett
+10162	Nha Trang
+10175	Rapet
+10199	Sandakan
+10201	Trincomalee
+10203	Korfu 
+10207	Indiga
+10230	Sherbrooke
+10234	Buka Town
+10237	Balikpapan
+10241	Pagudpud
+10245	Nuuk  
+10254	Nassau 
+10260	Alotau
+10262	Beineu   
+10263	Makassar
+10265	Manila
+10271	Vancouver
+10276	Tiwi Islands
+10278	Madras
+10281	Murfreesboro
+10297	Kuala Lumpur
+10309	Da Nang
+10321	Nicobar
+10324	Gulbarga
+10337	Houston
+10342	Pulau Obi
+10352	Pensacola
+10354	Bukittinggi
+10360	Campinas
+10362	Montevideo
+10367	Attu Island
+10370	Springfield
+10385	Sari
+10386	Monywa
+10387	San Bernardino
+10397	Zhangijakou
+10400	Pretoria
+10401	Raipur
+10404	Guilin
+10405	Florianopolis
+10407	Tallahassee
+10413	Xishuangbanna
+10422	Reno
+10424	Hohhot
+10433	Harbin
+10438	Nakhon Ratchasima
+10440	Inagua Islands  
+10444	Sapporo
+10445	Gold Coast
+10447	Porto Alegre
+10451	Ordos
+10472	Kars
+10478	Davenport
+10479	Malang
+10483	Anaheim
+10489	Port St. Lucie
+10490	Hainan
+10493	Wolmar
+10505	Merauke
+10513	Sao Paulo
+10524	Sewerobaikalsk  
+10533	Nischnewartowsk
+10545	Turpan
+10548	Hartley Bay
+10582	Ogden
+10588	Colorado Springs
+10595	Sioux Falls
+10627	Kyzyl
+10641	Yakutsk
+10647	Matad
+10655	Belogorsk
+10662	Provo
+10672	Idaho Falls
+10676	Lincoln
+10682	Wagga Wagga City
+10685	Fargo
+10695	Sharga
+10696	Omsk
+10709	Minot
+10713	Kosch-Agatsch 
+10715	Sept-Iles
+10717	Kansas City
+10724	Alxa
+10737	Kabul
+10740	El Paso
+10747	Bogota
+10760	Muscat
+10765	Hermosillo
+10772	Lahore
+10775	Finchawa
+10778	Tyler
+10783	Yuma
+10796	Haixi
+10798	Oklahoma City
+10803	Abidjan
+10830	Chihuahua
+10833	Burao
+10837	Tehran
+10840	Sana'a
+10841	Garze
+10843	Bahawalpur
+10854	Yinchuan
+10855	Barquisimeto
+10856	Qambo
+10861	Waco
+10862	Accra
+10870	Sharoah
+10879	Ciudad Bolivar
+10886	Guatemala
+10901	Sakaka
+10904	Dubai
+10909	Chattanooga
+10912	Puerto La Cruz
+10913	Kerman
+10918	Nagqu
+10919	Porto-Novo
+10921	Boosaaso
+10922	Ghom
+10923	Buraida
+10924	Santa Cruz de la Sierra
+10929	Salisbury
+10934	Manaus
+10946	São Salvador
+10953	Comodoro Rivadavia
+10954	Mount Hagen
+10959	Campo Grande
+10964	San Juan
+10966	Nova Lisboa
+10971	Exmouth
+10980	Rio de Janeiro
+10981	Las Grutas
+10992	Mendoza
+10993	Antananarivo
+10993	Natal
+10995	South Georgia
+11001	Salta
+11004	New Guinea
+11009	Rio Grande
+11020	Cuenca
+11028	Lillehammer 
+11050	Tromso
+11053	Sveg 
+11064	Scapa Flow
+11076	Kuopio
+11091	Gävle
+11098	Inta
+11100	Kristiansund 
+11105	Helsinki
+11106	Brenada
+11114	Karlstad
+11136	Aberdeen
+11147	Söderhamn 
+11148	Strömsund 
+11153	Kuittinen  
+11155	Gällivare 
+11159	Petrozavodsk
+11160	Kristianstad
+11161	Fort William
+11163	Västeras 
+11164	Kemi 
+11197	Borlänge 
+11202	Pskov
+11207	Elgin  
+11212	Segescha
+11213	Wologda 
+11215	Karlskrona
+11218	Dumfries
+11220	Orscha
+11225	Kuibyshev
+11234	Welikije Luki 
+11235	Mossalsk
+11236	Sergijew Possad
+11241	Vitebsk
+11251	Kolding
+11253	Norwich
+11257	Enniskillen
+11260	Konitz  
+11270	Middlesbrough
+11274	Lomza  
+11276	Schwerin  
+11279	Leicester
+11293	Dublin
+11297	Hull
+11301	Bialystok
+11305	Lübeck
+11314	Rjasan 
+11325	Klinzy  
+11332	Carlisle  
+11335	Pensa
+11349	Rzhev
+11350	Barbados
+11351	Tambow 
+11368	Mtsensk  
+11370	Minsk
+11372	Stolp
+11374	Southend-on-Sea  
+11375	Gorki
+11376	Ystad
+11380	Norrköping
+11388	Osnabrück
+11399	Lublin  
+11401	Reichenberg
+11404	Bayreuth
+11405	Zaporozhe
+11406	Bideford  
+11409	Uman 
+11417	Würzburg
+11418	Schachty
+11428	Petrikau  
+11432	Teplitz-Schönau
+11435	Bitburg
+11437	Dnipropetrovsk
+11445	Fulda
+11446	Brighton
+11456	Arnhem
+11465	Nantes
+11471	Swindon  
+11479	Lwow
+11483	Lille
+11484	Bykowo
+11490	Berdytschiw 
+11492	Plock  
+11494	Koblenz
+11499	Ulm
+11500	Stary Oskol
+11506	Paris
+11510	Aqsai 
+11516	Nancy
+11519	Liége
+11522	Nitra  
+11525	Neuhaus  
+11531	Saarbrücken
+11535	Caen
+11537	Oral 
+11542	Prague
+11544	Nuremberg
+11546	Mykolajiw
+11547	Kaiserslautern
+11548	Calais
+11553	Schostka 
+11561	Krivoi Rih
+11562	Roermond
+11563	Rouen
+11564	Rijeka
+11572	Zenica
+11575	Sowetskaja Gawan
+11581	Zagreb
+11584	Venice
+11586	Belgrade
+11587	Bormio
+11592	Reschitz  
+11594	Virovitica
+11595	Gorizia  
+11597	Dobritsch   
+11598	Bolzano
+11606	Valenciennes
+11607	Ust-Nera
+11610	Pecs
+11612	Bled  
+11613	Cholet
+11614	Naltschik 
+11618	Steinach am Brenner
+11621	Evansville
+11623	St. Gallen
+11638	Kempten
+11654	Buffalo
+11656	Ann Arbor
+11659	Debrecen
+11663	Tatabanya
+11666	Vienna
+11668	Noworossiysk 
+11669	Flint
+11670	Odessa
+11672	Bacau 
+11674	Mingacevir 
+11676	Baia Mare 
+11679	Komarno  
+11688	Santander  
+11691	Ungwar
+11701	Aqtau
+11707	Oviedo
+11717	Tupelo
+11724	Elista 
+11733	Medford
+11742	Cuenca
+11746	Adana
+11747	Ankara
+11752	Zhangbei
+11756	Salamanca
+11757	Long Beach
+11763	Clovis
+11771	Mukden
+11773	Cagliari
+11775	Kanggye
+11778	Balikesir
+11782	Edison
+11794	Macon 
+11795	Riverside
+11796	Usak
+11797	Erzincan 
+11799	Allentown
+11800	Pittsburgh
+11803	Benevento
+11805	Lisbon
+11818	Thessaloniki
+11821	Huesca
+11825	Valladolid
+11829	Gebze 
+11833	Livorno
+11834	Marseille
+11837	Taranto
+11843	Ponferrada  
+11846	Anzio
+11847	Hachihohe
+11859	Oxnard
+11866	Zonguldak
+11877	Clermont-Ferrand
+11877	Nimes
+11880	Tatvan
+11892	Annapolis
+11894	Samsun 
+11897	Corum  
+11899	Sarajevo
+11900	Trenton
+11905	Alexandroupolis 
+11913	Nanjing
+11919	Tyros
+11921	Sfax
+11925	Kumamoto
+11929	Dacca
+11932	Naha
+11935	Gafsa
+11936	Thanh Hoa
+11945	Heyuan
+11948	Jindo
+11952	Vadodara
+11953	Constantine
+11954	Benghazi
+11958	Sokcho
+11959	Taichung
+11960	Kyoto
+11965	Kalamata   
+11969	Tunis
+11974	al-Minya
+11975	Savannah
+11979	al-Arisch       
+11981	Zhanjiang
+11984	Nikosia
+11985	Ube
+11986	Quanzhou
+11989	Nagaoka
+11996	Cangzhou
+12003	Malta
+12021	Hilo
+12029	Antakya
+12035	Ranchi
+12040	Kaesong
+12042	Fes
+12046	Al-Fallujah  
+12049	Port Said
+12054	Raleigh
+12058	Chania 
+12059	Jinhua
+12068	Gaoxiong
+12072	Saku
+12074	Weifang
+12083	Jaen  
+12088	Ras Lanuf
+12089	Daegu
+12090	Sittwe
+12096	Fethiye
+12100	Melilla
+12104	Katherine
+12116	Edmonton
+12118	Cebu
+12132	Bourail
+12133	Can Tho
+12136	Amursk 
+12137	Lucknow
+12140	Guam
+12141	Ya'an
+12143	Rudny
+12148	Tahiti
+12149	Québec
+12154	Madang
+12162	Bima
+12169	Tarbes
+12181	Pekanbaru
+12182	Pune
+12189	Khabarovsk
+12190	Dili
+12196	Samarinda
+12206	Citrana
+12207	Bering Island 
+12213	Aparri
+12214	Bellevue
+12215	Taiping
+12223	Saguenay
+12228	Tawau
+12230	Phuket
+12232	Vüng Tau
+12234	Waingapu
+12237	Lae
+12240	Wewak
+12247	Madurai
+12248	Masar-e Scharif
+12250	Duschanbe
+12251	Andaman
+12253	San Fernando
+12268	Palembang
+12271	Pekan
+12279	Naga
+12283	Sibu
+12292	Mergui
+12298	Orenburg
+12299	Singapore
+12301	Lubbock
+12303	Palm Springs
+12304	Kingston (Jamaika)
+12308	Rockhampton
+12312	Rockford
+12314	Kunduz
+12319	Lao Cai
+12320	Yerevan
+12322	Dibrugarh
+12324	Nukus 
+12330	Palopo
+12333	Asgabat 
+12336	Punta del Este
+12338	Kishanganjo
+12341	College Station
+12357	Milwaukee
+12358	Palu
+12361	Jefferson City
+12364	Buenos Aires
+12368	Aurora
+12369	Brownsville
+12370	Dschalalabat 
+12371	Hollandia
+12374	Chula Vista
+12381	Jacksonville
+12384	Atlanta
+12401	Shreveport
+12403	Ulanqab
+12406	Sydney
+12410	Pasedena
+12416	Mardin 
+12421	Asahigawa
+12426	Zhumadian
+12429	Meridian
+12438	Riberiao Preto
+12439	Orlando
+12446	Toyohara
+12453	Concordia
+12455	Tabuk
+12456	Madison
+12459	Bangor
+12461	Tijuana
+12465	Urganch
+12473	Aleppo
+12489	Little Rock
+12493	Obihiro
+12497	Springfield
+12501	Nashville
+12503	Postville
+12505	Saint Johns
+12512	Nanortalik 
+12518	Ochotsk
+12525	Khuzhir  
+12526	Ili
+12530	Bugrino 
+12531	Mirny
+12535	Pocatello
+12549	Batagai
+12552	Albuquerque
+12555	Bor
+12563	Abakan 
+12576	Bendigo
+12586	Omaha
+12587	Uchta 
+12589	Cape Town
+12594	Semei 
+12605	Erdenet
+12620	Pierre
+12627	Pueblo
+12631	Kemerowo 
+12632	Nelson
+12633	Regina
+12640	Taras
+12641	Tschita
+12642	Aurora
+12648	Bloemfontein
+12651	Jackson
+12662	Urzhar 
+12670	Clarksville
+12674	Reykjavik
+12683	Magadan
+12688	Dauphin
+12689	Vik i Myrdal 
+12705	Luzhou
+12708	Ludhiana
+12715	Cancun
+12717	Reschawa
+12718	Bikaner
+12725	Port Sudan
+12727	Riyadh
+12732	Lanzhou
+12735	Birmingham
+12736	La Paz
+12738	Managua
+12743	Indore
+12749	Hafar Al-Batin
+12751	Bamako
+12752	Fort Myres
+12758	Medina
+12765	Flagstaff
+12766	Asmara
+12775	Bandundu
+12778	Fort Smith
+12782	San Antonio
+12787	Kumasi
+12790	Cartagena
+12798	Quito
+12804	Zacatecas
+12806	Khartoum
+12810	Veracruz
+12823	San Salvador
+12828	Paramaribo
+12831	Dschalalabad
+12832	Kish
+12834	Ziguinchor
+12835	Monterrey
+12840	Hobyo
+12845	Bucaramanga
+12852	Birdschand
+12853	Belém
+12857	Sidi Ifni
+12865	Tegucigalpa
+12867	Villahermosa
+12872	Cali
+12875	Abilene
+12883	Jeddah
+12885	Cayenne
+12888	Biskra
+12889	Hurghada
+12891	Bissau
+12893	Armarillo
+12895	Zabol
+12910	Adelaide
+12917	Cobija
+12938	Belo Horizonte
+12941	Kismaayo
+12942	Córdoba
+12948	Madura
+12957	Carpentaria
+12960	Falkland Islands
+12975	Pointe-Noire
+12986	Lilongwe
+12989	Kampala
+12990	Esperance
+12991	Mogadishu
+12993	Sao Luis
+12997	Lima
+13002	Cocos Islands
+13003	Färöer 
+13005	Christmas Island
+13009	St. Lucia
+13010	Bermuda 
+13011	Reims
+13013	Georgetown
+13014	Cape Verde 
+13016	St. Helena
+13017	Reunion
+13018	Mauritius
+13019	Diego Garcia
+13021	Tarawa
+13023	Songsong
+13024	Tinian
+13025	Iwo Jima
+13026	Marcus Island
+13028	Yap
+13037	Etorofu
+13038	Nauru
+13041	Kwajalein
+13046	Eniwetok
+13047	Wake
+13052	Midway
+13056	Ellice Islands
+13059	Wiljuisk
+13063	Prowidenija 
+13069	Fairbanks
+13070	Maidstone
+13071	Gran Canaria 
+13072	Comoro Islands
+13077	Bordj Bou Arreidj
+13084	Anguilla
+13086	Tacna
+13087	San Jose
+13089	Guadalajara
+13090	Unalaska
+13091	Anchorage
+13092	Liberia
+13196	Wimin
+13202	Sitka
+13203	Juneau
+13204	Wrangel Island
