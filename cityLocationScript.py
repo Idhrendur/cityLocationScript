@@ -2,6 +2,7 @@
 # -*- coding: iso-8859-1 -*-
 import re
 
+#read the city positions
 locationsFile = open("cityLocations.txt", encoding='iso-8859-1')
 lines = [line.rstrip('\n') for line in locationsFile]
 positions = []
@@ -11,7 +12,27 @@ for line in lines:
 		positions.append(positionMatch.group(1))
 locationsFile.close()
 
-for position in positions:
-	print(position)
+# read in the province mappings
+provinceMappingsFile = open('province_mappings.txt', encoding='iso-8859-1')
+lines = [line.rstrip('\n') for line in provinceMappingsFile]
+provinceMappings = []
+for line in lines:
+	if len(line) == 0: continue
+	if line[0] == '#': continue
+	Vic2Match = re.search("(vic2 = )([0-9]+)", line)
+	if (Vic2Match):
+		HoI4Matches = re.finditer("(hoi4 = )([0-9]+)", line)
+		if (HoI4Matches):
+			HoI4Provinces = []
+			for HoI4Match in HoI4Matches:
+				HoI4Provinces.append(HoI4Match.group(2))
+			for HoI4Province in HoI4Provinces:
+				pair = [HoI4Province, HoI4Provinces]
+				provinceMappings.append(pair)
+provinceMappingsFile.close()
+
+# report mappings to confirm this worked
+for provinceMapping in provinceMappings:
+	print(provinceMapping)
 
 input("Press enter to continue")
