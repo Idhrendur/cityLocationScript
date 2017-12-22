@@ -25,6 +25,7 @@ mappingsByName = dict()
 for line in lines:
 	if len(line) == 0: continue
 	if line[0] == '#': continue
+	if line[0] == '}': break
 	Vic2Match = re.search("(vic2 = )([0-9]+)", line)
 	if (Vic2Match):
 		HoI4Matches = re.finditer("(hoi4 = )([0-9]+)", line)
