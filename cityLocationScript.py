@@ -9,6 +9,8 @@ positionsList = []
 positionsMap = dict()
 namedPositions = dict()
 for line in lines:
+	if len(line) == 0: continue
+	if line[0] == '#': continue
 	positionMatch = re.search("([0-9]+)\t(.+)", line)
 	if (positionMatch):
 		positionsList.append(positionMatch.group(1))
